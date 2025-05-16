@@ -66,11 +66,11 @@ Vista de contactos (Visuzalizador)
 
 **Información de contacto**
 
-Nombre: Vicente Hernández Ramos
-Correo electrónico: vicxnte.hr.17@gmail.com
-Télefono: 2722074953
-Institución: Instituto Tecnológico de Orizaba  
-Carrera: Ingeniería en Sistemas Computacionales  
-Fecha: 15 de mayo de 2025
+- Nombre: Vicente Hernández Ramos
+- Correo electrónico: vicxnte.hr.17@gmail.com
+- Télefono: 2722074953
+- Institución: Instituto Tecnológico de Orizaba  
+- Carrera: Ingeniería en Sistemas Computacionales  
+- Fecha: 15 de mayo de 2025
 
 ---
