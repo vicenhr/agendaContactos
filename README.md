@@ -46,9 +46,21 @@ Pantalla de inicio de sesión
 
 ![](img/login.png)
 
-### Vista de contactos (Administrador)
+Mensaje de Bienvenida (Administrador)
+
+![](img/bienvenida_admin.png)
+
+Vista de contactos (Administrador)
 
 ![](img/vista_admin.png)
+
+Mensaje de Bienvenida (Visuzalizador)
+
+![](img/bienvenida_invitado.png)
+
+Vista de contactos (Visuzalizador)
+
+![](img/vista_invitado.png)
 
 ---
 
