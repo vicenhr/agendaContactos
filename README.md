@@ -32,7 +32,7 @@ Ejecución:
 
 **Descripción breve del proyecto**
 
-Este proyecto consiste en una aplicación desarrollada en PHP, inclyendo sql, javascript, css y obviamente html. La aplicación permite gestionar una lista de contactos y está diseñada para que los usuarios puedan **crear, visualizar, modificar y eliminar contactos** de forma sencilla.
+Este proyecto consiste en una aplicación desarrollada en PHP, inclyendo sql, javascript, css y obviamente html. La aplicación permite gestionar una lista de contactos y está diseñada para que los usuarios puedan crear, visualizar, modificar y eliminar contactos de forma sencilla.
 
 Este proyecto incluye dos tipos de usuario:
 - Administrador: puede realizar todas las operaciones CRUD.
