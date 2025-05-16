@@ -42,8 +42,6 @@ Este proyecto incluye dos tipos de usuario:
 
 **Capturas de pantalla**
 
-> 📸 Puedes colocar aquí tus imágenes utilizando el siguiente formato Markdown. Asegúrate de tener las imágenes dentro de una carpeta llamada `/img` dentro del proyecto o en tu repositorio.
-
 Pantalla de inicio de sesión
 ![Inicio de sesión](img/login.png)
 
