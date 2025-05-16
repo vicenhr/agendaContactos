@@ -43,10 +43,10 @@ Este proyecto incluye dos tipos de usuario:
 **Capturas de pantalla**
 
 Pantalla de inicio de sesión
-![Inicio de sesión](img/login.png)
+(img/login.png)
 
 Vista de contactos (Administrador)
-![Vista de contactos](img/vista_admin.png)
+(img/vista_admin.png)
 
 ---
 
