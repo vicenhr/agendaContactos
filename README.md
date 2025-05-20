@@ -9,6 +9,7 @@ Requisitos previos:
 
 Instalación:
 1. Haga una copia del repositorio o descarga los archivos del proyecto.
+https://github.com/vicenhr/agendaContactos
 2. Coloca la carpeta del proyecto dentro del directorio `htdocs` de XAMPP.
 3. Iniciar Apache y MySQL desde el panel de control en XAMPP.
 4. Importar el archivo SQL:
